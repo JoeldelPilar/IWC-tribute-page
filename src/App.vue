@@ -1,7 +1,9 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+	import SiteHeader from './components/SiteHeader.vue';
+</script>
 
 <template>
-	<div></div>
+	<SiteHeader />
 </template>
 
 <style lang="scss" scoped></style>
