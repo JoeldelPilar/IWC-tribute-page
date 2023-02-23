@@ -23,6 +23,7 @@
 		background-position: center;
 		width: 100%;
 		height: 65vw;
+		margin-block-start: 2rem;
 		opacity: 0.7;
 		p {
 			isolation: isolate;
